@@ -61,4 +61,4 @@ npm run code (jika ingin menggunakan kode pairing atau 1 hp)
 <a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> | [![Irfan](https://github.com/rtwone.png?size=100)](https://github.com/rtwone) | [![Riy](http://github.com/riycoders.png?size=100)](http://github.com/riycoders) | [![ManusiaTamvanzzz](http://github.com/manusiatamvanzzz.png?size=100)](http://github.com/manusiatamvanzzz) 
 ----|----|----|----|----|----|----
 [Whiskeysockets](https://github.com/whiskeysockets) | [Irfan](https://github.com/rtwone) | [ManusiaTamvanzzz](https://github.com/ManusiaTamvanzzz) | [Riy](https://github.com/riycoders)
-Baileys | Base Bot | Recode Bot | Recode Bot
+| Baileys | Base Bot | Recode Bot | Recode Bot
